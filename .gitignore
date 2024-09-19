@@ -25,3 +25,9 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Visual Studio Code related
+.classpath
+.project
+.settings/
+.vscode/

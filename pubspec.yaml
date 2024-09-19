@@ -1,0 +1,15 @@
+name: owakuro
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+environment:
+  sdk: ^3.5.2
+
+# Add regular dependencies here.
+dependencies:
+  common_macros: ^0.1.0-7.dev
+  macros: ^0.1.0-main
+# path: ^1.8.0
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
